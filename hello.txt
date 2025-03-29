@@ -1,1 +1,2 @@
 echo "Hello, this is my first Git file!" > hello.txt
+"This is an additional line in hello.txt".
